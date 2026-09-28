@@ -1,0 +1,88 @@
+[
+  {
+    "query": "casual navy top",
+    "relevant_product_ids": [
+      "P00087",
+      "P00211",
+      "P00291",
+      "P00658",
+      "P00671",
+      "P00753",
+      "P00806"
+    ]
+  },
+  {
+    "query": "formal navy dress",
+    "relevant_product_ids": [
+      "P00595",
+      "P00638"
+    ]
+  },
+  {
+    "query": "streetwear black footwear",
+    "relevant_product_ids": [
+      "P00001",
+      "P00186",
+      "P00607",
+      "P00704"
+    ]
+  },
+  {
+    "query": "athleisure tops under $50",
+    "relevant_product_ids": [
+      "P00154",
+      "P00302",
+      "P00359",
+      "P00826",
+      "P00834"
+    ]
+  },
+  {
+    "query": "minimalist black accessories",
+    "relevant_product_ids": [
+      "P00124",
+      "P00778"
+    ]
+  },
+  {
+    "query": "casual bottoms in olive",
+    "relevant_product_ids": [
+      "P00621",
+      "P00640",
+      "P00680"
+    ]
+  },
+  {
+    "query": "formal grey outerwear",
+    "relevant_product_ids": [
+      "P00202",
+      "P00513",
+      "P00748",
+      "P00820"
+    ]
+  },
+  {
+    "query": "streetwear tops under $60",
+    "relevant_product_ids": [
+      "P00351",
+      "P00634",
+      "P00756",
+      "P00845",
+      "P00984",
+      "P00991"
+    ]
+  },
+  {
+    "query": "minimalist white dresses under $100",
+    "relevant_product_ids": [
+      "P00168",
+      "P00485"
+    ]
+  },
+  {
+    "query": "athleisure burgundy footwear",
+    "relevant_product_ids": [
+      "P00520"
+    ]
+  }
+]
